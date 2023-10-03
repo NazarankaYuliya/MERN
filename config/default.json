@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "mongoUri": "mongodb+srv://nazarenkoylia:admin1234@mern.5lmlf25.mongodb.net/",
+  "jwtSecret": "secretKey"
+}
